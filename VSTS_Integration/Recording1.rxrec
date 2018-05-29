@@ -4576,11 +4576,6 @@ oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigCm/+sb6miiigD//Z
 						Ranorex VIP Database Test Web Application
 					</attribute>
 					<attribute
-					name="browser"
-					type="Ranorex.Form, Ranorex.Core, Culture=neutral">
-						{Form:Ranorex VIP Database Test Web Application - Internet Explorer}
-					</attribute>
-					<attribute
 					name="browsername"
 					type="System.String">
 						IE
@@ -4625,6 +4620,18 @@ oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigCm/+sb6miiigD//Z
 				</path>
 			</info>
 		</closeapprecorditem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="MAKING A CHANGE"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="5982158a-e1d1-4936-b43a-787e26646464">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="86b3b0a1-3a3d-4906-a8d0-33267378f1b0"

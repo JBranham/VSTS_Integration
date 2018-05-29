@@ -123,6 +123,8 @@ namespace VSTS_Integration
             Host.Current.CloseApplication(repo.RanorexVIPDatabaseTestWebApplicatio.Self, new Duration(0));
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "User", "MAKING A CHANGE", new RecordItemIndex(11));
+            
         }
 
 #region Image Feature Data

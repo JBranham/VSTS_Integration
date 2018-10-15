@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <modulegroupdoc
-rxversion="8.1">
-  <testsuiteentryhierarchy>
-    <flatlistofchildren>
-      <modulegroups
-      name="VSTS_Integration"
-      id="134134e0-dfbb-4992-8037-c6b88a977775"/>
-    </flatlistofchildren>
-    <childhierarchy>
-      <modulegroups
-      name="VSTS_Integration"
-      id="134134e0-dfbb-4992-8037-c6b88a977775"/>
-    </childhierarchy>
-  </testsuiteentryhierarchy>
+rxversion="8.3">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroups
+			id="134134e0-dfbb-4992-8037-c6b88a977775"
+			name="VSTS_Integration">
+			</modulegroups>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="134134e0-dfbb-4992-8037-c6b88a977775"
+			name="VSTS_Integration">
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
 </modulegroupdoc>

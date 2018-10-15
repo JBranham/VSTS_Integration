@@ -1,5 +1,5 @@
 ﻿<configuration
-rxversion="8.1">
+rxversion="8.3">
 	<adapter.defaultsearchtimeout>
 		10000ms
 	</adapter.defaultsearchtimeout>
@@ -15,6 +15,9 @@ rxversion="8.1">
 	<imaging.usehiddenimagecapture>
 		True
 	</imaging.usehiddenimagecapture>
+	<input.enableimehookkey>
+		False
+	</input.enableimehookkey>
 	<pointer.checkisvalidlocation>
 		False
 	</pointer.checkisvalidlocation>
@@ -1270,6 +1273,9 @@ rxversion="8.1">
 	<TestCase.Retry.ShowWarning>
 		True
 	</TestCase.Retry.ShowWarning>
+	<Testing.Data.ExcelDataLoadingPreference>
+		PreferExcel
+	</Testing.Data.ExcelDataLoadingPreference>
 	<TestExecution.CopyRuntimeToOutput>
 		True
 	</TestExecution.CopyRuntimeToOutput>
@@ -1304,6 +1310,12 @@ rxversion="8.1">
 	<plugins.web.EnableEmbeddedWebDocuments>
 		True
 	</plugins.web.EnableEmbeddedWebDocuments>
+	<plugins.web.EnableJsAcceleration>
+		False
+	</plugins.web.EnableJsAcceleration>
+	<plugins.web.EnableIeAddon>
+		True
+	</plugins.web.EnableIeAddon>
 	<plugins.wpfnative.enablewpfdebug>
 		False
 	</plugins.wpfnative.enablewpfdebug>
@@ -1412,6 +1424,9 @@ rxversion="8.1">
 	<plugin.cef.processblacklist>
 		spotify;chrome;
 	</plugin.cef.processblacklist>
+	<plugin.cef.forcehwndrectangle>
+		False
+	</plugin.cef.forcehwndrectangle>
 	<plugin.cef.wpffulltypewhitelist>
 	</plugin.cef.wpffulltypewhitelist>
 	<plugin.cef.enabledebugcapability>

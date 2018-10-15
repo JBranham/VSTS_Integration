@@ -22,7 +22,7 @@ namespace VSTS_Integration
     /// <summary>
     /// The class representing the VSTS_IntegrationRepository element repository.
     /// </summary>
-    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "8.1")]
+    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "8.3")]
     [RepositoryFolder("195dbadf-4608-44cc-b5ba-bad36d029e51")]
     public partial class VSTS_IntegrationRepository : RepoGenBaseFolder
     {
@@ -76,7 +76,7 @@ namespace VSTS_Integration
     /// <summary>
     /// Inner folder classes.
     /// </summary>
-    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "8.1")]
+    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "8.3")]
     public partial class VSTS_IntegrationRepositoryFolders
     {
         /// <summary>

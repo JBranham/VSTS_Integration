@@ -1,7 +1,8 @@
-﻿<repository
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
 id="86b3b0a1-3a3d-4906-a8d0-33267378f1b0"
 name="VSTS_IntegrationRepository"
-rxversion="8.1">
+rxversion="8.3">
 	<codegen
 	classname="VSTS_IntegrationRepository"
 	namespace="VSTS_Integration">
